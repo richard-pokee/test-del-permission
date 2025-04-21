@@ -1,1 +1,1 @@
-This is a basic README file.
+This is a placeholder README.md file.
